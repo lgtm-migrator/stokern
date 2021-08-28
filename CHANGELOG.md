@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## v0.0.69 2021-08-28
+
+- Various gem updates from dependabot and sync.
+
 ## v0.0.68 2021-07-12
 
 - Update rails, rubocop, rubocop-rails, and rubocop-performance.
