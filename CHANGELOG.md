@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## v0.0.70 2021-10-01
+
+- Updates to gemfiles.
+
 ## v0.0.69 2021-08-28
 
 - Various gem updates from dependabot and sync.
