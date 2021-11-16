@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- Update mini_racer and jbuilder. Needed to install libv8-node v16 in order to get it to work
+
 ## v0.0.71 2021-10-25
 
 - Update gemfiles
