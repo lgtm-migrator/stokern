@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## v0.0.73 2021-11-16
+
+Reverted mini_racer back to 0.4.0 due to issue getting v0.5.0 to build with libv8-node.
+
 ## v0.0.72 2021-11-16
 
 - Update mini_racer and jbuilder. Needed to install libv8-node v16 in order to get it to work
