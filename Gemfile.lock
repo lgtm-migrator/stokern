@@ -405,6 +405,7 @@ DEPENDENCIES
   jbuilder (~> 2.11)
   jquery-rails (>= 4.4.0)
   launchy (>= 2.5.0)
+  libv8-node (~> 16.10)
   listen
   mini_racer
   nokogiri (>= 1.11.4)
