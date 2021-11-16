@@ -3,5 +3,8 @@
   "private": true,
   "dependencies": {
     "jquery": "^3.5.1"
+  },
+  "engines": {
+    "node": "16.10"
   }
 }
