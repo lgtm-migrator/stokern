@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## v0.0.74 2021-12-03
+
 - updated gems for security notifications: selenium-webdriver and bootsnap.
 - also updaed parser, globalid, rubocop-ast, and sprockets-rails.
 
