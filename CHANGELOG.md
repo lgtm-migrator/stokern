@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- updated gems for security notifications: selenium-webdriver and bootsnap.
+- also updaed parser, globalid, rubocop-ast, and sprockets-rails.
+
 ## v0.0.73 2021-11-16
 
 Reverted mini_racer back to 0.4.0 due to issue getting v0.5.0 to build with libv8-node.
