@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '3.0.2'
 gem 'bootsnap', '>= 1.1.0', require: false
-gem 'bootstrap', '>= 5.0.1'
+gem 'bootstrap', '>= 5.1.3'
 gem 'bootswatch'
 gem 'coffee-rails', '~> 5.0', '>= 5.0.0'
 gem 'devise', '>= 4.8.0'
@@ -18,7 +18,7 @@ gem 'nokogiri', '>= 1.11.4'
 gem 'pg'
 gem 'puma', '>= 5.3.1'
 gem 'rack-timeout'
-gem 'rails', '~> 6.1', '>= 6.1.4.1'
+gem 'rails', '~> 6.1', '>= 6.1.4.2'
 gem 'rails-ujs', '>= 0.1.0'
 gem 'sass-rails', '>= 6.0.0'
 gem 'turbolinks', '~> 5'
@@ -45,7 +45,7 @@ group :development do
   gem 'spring'
   gem 'spring-commands-rspec'
   gem 'spring-watcher-listen', '>= 2.0.0'
-  gem 'web-console', '>= 4.1.0'
+  gem 'web-console', '>= 4.2.0'
 end
 group :development, :test do
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
@@ -53,7 +53,7 @@ group :development, :test do
   gem 'factory_bot_rails', '>= 6.2.0'
   gem 'faker'
   gem 'rb-readline'
-  gem 'rspec-rails', '>= 5.0.1'
+  gem 'rspec-rails', '>= 5.0.2'
 end
 group :test do
   gem 'capybara', '>= 3.35.3'
