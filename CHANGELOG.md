@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- updated gems
+- downgraded node to 14.17.5
+
 ## v0.0.74 2021-12-03
 
 - updated gems for security notifications: selenium-webdriver and bootsnap.
