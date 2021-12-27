@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
-## v0.0.75
+## v0.0.75 2021-12-17
 
 - updated gems
 - downgraded node to 14.17.5
