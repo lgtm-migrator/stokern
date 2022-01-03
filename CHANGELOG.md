@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## v0.0.76 2022-01-03
+
 - Updated gems from synk PR's
   - rubocop from 1.24.0 to 1.24.1.
   - rubocop-performance from 1.13.0 to 1.13.1
