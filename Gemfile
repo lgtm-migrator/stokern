@@ -13,7 +13,7 @@ gem 'high_voltage'
 gem 'it', '>= 2.0.0'
 gem 'jbuilder', '~> 2.11'
 gem 'jquery-rails', '>= 4.4.0'
-gem 'mini_racer', '~> 0.4.0', platforms: :ruby
+gem 'mini_racer', '~> 0.6.0', platforms: :ruby
 gem 'nokogiri', '>= 1.11.4'
 gem 'pg'
 gem 'puma', '>= 5.3.1'
