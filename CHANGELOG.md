@@ -7,6 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## v0.0.77 2022-01-03
+
+- Further issues. libv8-node was being a pain, until after a `bundle update` was carried out.
+
 ## v0.0.76 2022-01-03
 
 - Updated gems from synk PR's
