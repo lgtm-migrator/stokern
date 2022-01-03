@@ -7,6 +7,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- Updated gems from synk PR's
+  - rubocop from 1.24.0 to 1.24.1.
+  - rubocop-performance from 1.13.0 to 1.13.1
+  - mini_racer from 0.4.0 to 0.6.0.
+
 ## v0.0.75 2021-12-17
 
 - updated gems
