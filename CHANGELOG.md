@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## v0.0.78 2022-01-08
+
+- Update bundle
+  - nokogiri from 1.12.5 to 1.13.0 (synk update)
+  - rails from 7.0.0 to 7.0.1
+
 ## v0.0.77 2022-01-03
 
 - Further issues. libv8-node was being a pain, until after a `bundle update` was carried out.
