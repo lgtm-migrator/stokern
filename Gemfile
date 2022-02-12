@@ -40,9 +40,10 @@ group :development do
   gem 'rb-fchange', require: false
   gem 'rb-fsevent', require: false
   gem 'rb-inotify', require: false
-  gem 'rubocop', '>= 1.11.0', require: false
+  gem 'rubocop', '>= 1.25.1', require: false
   gem 'rubocop-performance', '>= 1.10.1'
   gem 'rubocop-rails', '>= 2.9.1'
+  gem 'rubocop-rspec'
   gem 'spring'
   gem 'spring-commands-rspec'
   gem 'spring-watcher-listen', '>= 2.0.0'
