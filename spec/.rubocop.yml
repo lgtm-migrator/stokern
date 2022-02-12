@@ -1,6 +1,0 @@
-Layout/LineLength:
-  Exclude:
-    - 'rails_helper.rb'
-Style/ExpandPathArguments:
-  Exclude:
-    - 'rails_helper.rb'

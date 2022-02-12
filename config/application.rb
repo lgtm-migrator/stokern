@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative 'boot'
 
 require 'rails/all'
@@ -6,9 +8,10 @@ require 'rails/all'
 # you've limited to :test, :development, or :production.
 Bundler.require(*Rails.groups)
 
-APP_VERSION = '0.0.79'.freeze unless defined? APP_VERSION
+APP_VERSION = '0.0.79' unless defined? APP_VERSION
 
 module Stokern
+  # .nodoc
   class Application < Rails::Application
     config.generators do |g|
       g.test_framework :rspec,
@@ -28,5 +31,7 @@ module Stokern
     # Application configuration can go into files in config/initializers
     # -- all .rb files in that directory are automatically loaded after loading
     # the framework and any gems in your application.
+
+    config.active_record.legacy_connection_handling = false
   end
 end

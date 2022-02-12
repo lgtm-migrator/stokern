@@ -1,13 +1,10 @@
-require:
-  - rubocop-performance
-  - rubocop-rails
-
 AllCops:
   NewCops: enable
   Exclude:
     - 'bin/*'
     - 'db/**/**'
     - 'Guardfile'
+
 
 inherit_from: .rubocop_todo.yml
 
