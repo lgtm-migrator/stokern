@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## v0.0.79 2022-02-12
+
 - Security updates
   - Puma for information leakage
   - actionpack for information leakage
