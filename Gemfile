@@ -15,7 +15,7 @@ gem 'jbuilder', '~> 2.11', '>= 2.11.5'
 gem 'jquery-rails', '>= 4.4.0'
 # gem 'libv8-node', '~> 16.10.0.0'
 gem 'mini_racer', '~> 0.6.2', platforms: :ruby
-gem 'nokogiri', '>= 1.12.5'
+gem 'nokogiri', '>= 1.13.2'
 gem 'pg'
 gem 'puma', '>= 5.6.2'
 gem 'rack-timeout'
