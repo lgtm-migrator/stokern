@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- security updates
+
 ## v0.0.80 2022-02-12
 
 - Applied rubocop fixes
