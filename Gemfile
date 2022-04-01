@@ -17,7 +17,7 @@ gem 'jquery-rails', '>= 4.4.0'
 gem 'mini_racer', '~> 0.6.2', platforms: :ruby
 gem 'nokogiri', '>= 1.13.2'
 gem 'pg'
-gem 'puma', '>= 5.6.2'
+gem 'puma', '>= 5.6.4'
 gem 'rack-timeout'
 gem 'rails', '~> 7.0', '>= 7.0.2.3'
 gem 'rails-ujs', '>= 0.1.0'
