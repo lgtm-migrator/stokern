@@ -7,7 +7,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## v0.0.83 2022-04-25
+
 - bump ruby version
+- various security fixes
 
 ## v0.0.82 2022-03-07
 
