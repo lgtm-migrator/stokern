@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- apply dependabot updates
+
 ## v0.0.83 2022-04-25
 
 - bump ruby version
