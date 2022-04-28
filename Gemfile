@@ -19,7 +19,7 @@ gem 'nokogiri', '>= 1.13.4'
 gem 'pg'
 gem 'puma', '>= 5.6.4'
 gem 'rack-timeout'
-gem 'rails', '~> 7.0', '>= 7.0.2.3'
+gem 'rails', '~> 7.0', '>= 7.0.2.4'
 gem 'rails-ujs', '>= 0.1.0'
 gem 'sass-rails', '>= 6.0.0'
 gem 'turbolinks', '~> 5'
@@ -55,7 +55,7 @@ group :development, :test do
   gem 'factory_bot_rails', '>= 6.2.0'
   gem 'faker'
   gem 'rb-readline'
-  gem 'rspec-rails', '>= 5.0.2'
+  gem 'rspec-rails', '>= 5.1.2'
 end
 group :test do
   gem 'capybara', '>= 3.36.0'
