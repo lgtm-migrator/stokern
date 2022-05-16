@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- bring development to a more recent ruby.
+- Apply dependabots to capybara, faker, rails, and rubocop.
+
 ## v0.0.84 2022-04-28
 
 - apply dependabot updates
