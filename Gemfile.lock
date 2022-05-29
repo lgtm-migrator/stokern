@@ -253,7 +253,7 @@ GEM
     puma (5.6.4)
       nio4r (~> 2.0)
     racc (1.6.0)
-    rack (2.2.3)
+    rack (2.2.3.1)
     rack-test (1.1.0)
       rack (>= 1.0, < 3)
     rack-timeout (0.6.0)
@@ -417,7 +417,7 @@ DEPENDENCIES
   bootswatch
   brakeman
   byebug
-  capybara (>= 3.36.0)
+  capybara (>= 3.37.1)
   coffee-rails (~> 5.0, >= 5.0.0)
   database_cleaner
   devise (>= 4.8.1)
@@ -441,7 +441,7 @@ DEPENDENCIES
   pg
   puma (>= 5.6.4)
   rack-timeout
-  rails (~> 7.0)
+  rails (~> 7.0, >= 7.0.3)
   rails-erd!
   rails-ujs (>= 0.1.0)
   rails_layout
@@ -452,7 +452,7 @@ DEPENDENCIES
   rspec-rails (>= 5.1.2)
   rubocop (>= 1.25.1)
   rubocop-performance (>= 1.10.1)
-  rubocop-rails (>= 2.9.1)
+  rubocop-rails (>= 2.14.2)
   rubocop-rspec
   sass-rails (>= 6.0.0)
   selenium-webdriver
