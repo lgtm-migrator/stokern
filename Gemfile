@@ -19,7 +19,7 @@ gem 'nokogiri', '>= 1.13.4'
 gem 'pg'
 gem 'puma', '>= 5.6.4'
 gem 'rack-timeout'
-gem 'rails', '~> 7.0'
+gem 'rails', '~> 7.0', '>= 7.0.3'
 gem 'rails-ujs', '>= 0.1.0'
 gem 'sass-rails', '>= 6.0.0'
 gem 'turbolinks', '~> 5'
@@ -42,7 +42,7 @@ group :development do
   gem 'rb-inotify', require: false
   gem 'rubocop', '>= 1.25.1', require: false
   gem 'rubocop-performance', '>= 1.10.1'
-  gem 'rubocop-rails', '>= 2.9.1'
+  gem 'rubocop-rails', '>= 2.14.2'
   gem 'rubocop-rspec'
   gem 'spring'
   gem 'spring-commands-rspec'
@@ -58,7 +58,7 @@ group :development, :test do
   gem 'rspec-rails', '>= 5.1.2'
 end
 group :test do
-  gem 'capybara', '>= 3.36.0'
+  gem 'capybara', '>= 3.37.1'
   gem 'database_cleaner'
   gem 'launchy', '>= 2.5.0'
   gem 'selenium-webdriver'
