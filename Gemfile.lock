@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/voormedia/rails-erd
-  revision: fa33ad60cec857e36635a4690f7eba03cb9f6dd5
+  revision: 3eb0a338994f9d29ace34d26bb77aa2765d81b65
   specs:
-    rails-erd (1.6.1)
+    rails-erd (1.7.1)
       activerecord (>= 4.2)
       activesupport (>= 4.2)
       choice (~> 0.2.0)
