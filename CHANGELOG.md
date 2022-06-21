@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## v0.0.86 2022-06-21
+
 - merge and update time including:
   - dependabot/bundler/develop/bootsnap-1.12.0
   - dependabot/bundler/develop/rack-timeout-0.6.3
