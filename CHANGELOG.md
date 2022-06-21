@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- merge and update time including:
+  - dependabot/bundler/develop/bootsnap-1.12.0
+  - dependabot/bundler/develop/rack-timeout-0.6.3
+  - dependabot/bundler/develop/rails-erd-3eb0a33
+  - dependabot/bundler/develop/rubocop-1.30.1
+  - dependabot/bundler/develop/rubocop-performance-1.14.2
+  - dependabot/bundler/develop/rubocop-rails-2.15.0
+  - dependabot/bundler/develop/selenium-webdriver-4.2.1
+
 ## v0.0.85 2022-05-16
 
 - bring development to a more recent ruby.
