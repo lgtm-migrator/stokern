@@ -7,6 +7,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- gems
+  - actionpack actionview nokogirirails rails-erd rubocop rubocop-performance rubocop-rails rubocop-rspec rack
+
 ## v0.0.86 2022-06-21
 
 - merge and update time including:
