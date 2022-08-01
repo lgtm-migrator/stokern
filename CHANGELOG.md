@@ -7,6 +7,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## v0.0.88 2022-07-18
+
 - merge and update time, including:
   - dependabot/bundler/develop/bootsnap-1.13.0
   - dependabot/bundler/develop/dotenv-2.8.1
