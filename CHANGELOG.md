@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+- merge and update time, including:
+  - dependabot/bundler/develop/bootsnap-1.13.0
+  - dependabot/bundler/develop/dotenv-2.8.1
+  - dependabot/bundler/develop/faker-2.22.0
+  - dependabot/bundler/develop/pg-1.4.2
+  - dependabot/bundler/develop/rails-erd
+
 ## v0.0.87 2022-07-18
 
 - gems
