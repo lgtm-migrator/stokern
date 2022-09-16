@@ -2,7 +2,7 @@
   "name": "stokern",
   "private": true,
   "dependencies": {
-    "jquery": "^3.5.1"
+    "jquery": "^3.6.1"
   },
   "engines": {
     "node": "14.17.5"
