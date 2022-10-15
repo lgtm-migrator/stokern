@@ -7,6 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+## v0.0.89 2022-10-15
+
+- update gem files
+  - actionpack: Affected versions of this package are vulnerable to Open Redirect due to improper URL validation in the _url_host_allowed? method.
+- update node to v14.20.1
+
 ## v0.0.88 2022-07-18
 
 - merge and update time, including:
