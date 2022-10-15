@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 ruby '3.1.2'
 gem 'bootsnap', '>= 1.1.0', require: false
-gem 'bootstrap', '>= 5.1.3'
+gem 'bootstrap', '>= 5.2.0'
 gem 'bootswatch'
 gem 'coffee-rails', '~> 5.0', '>= 5.0.0'
 gem 'devise', '>= 4.8.1'
@@ -12,14 +12,14 @@ gem 'dotenv', '>= 2.8.1'
 gem 'high_voltage'
 gem 'it', '>= 2.0.0'
 gem 'jbuilder', '~> 2.11', '>= 2.11.5'
-gem 'jquery-rails', '>= 4.4.0'
+gem 'jquery-rails', '>= 4.5.0'
 # gem 'libv8-node', '~> 16.10.0.0'
-gem 'mini_racer', '~> 0.6.2', platforms: :ruby
+gem 'mini_racer', '~> 0.6.3', platforms: :ruby
 gem 'nokogiri', '>= 1.13.4'
 gem 'pg'
 gem 'puma', '>= 5.6.4'
 gem 'rack-timeout'
-gem 'rails', '~> 7.0', '>= 7.0.3.1'
+gem 'rails', '~> 7.0', '>= 7.0.4'
 gem 'rails-ujs', '>= 0.1.0'
 gem 'sass-rails', '>= 6.0.0'
 gem 'turbolinks', '~> 5'
@@ -51,7 +51,7 @@ group :development do
 end
 group :development, :test do
   gem 'byebug', platforms: %i[mri mingw x64_mingw]
-  gem 'dotenv-rails', '>= 2.7.6'
+  gem 'dotenv-rails', '>= 2.8.1'
   gem 'factory_bot_rails', '>= 6.2.0'
   gem 'faker'
   gem 'rb-readline'
