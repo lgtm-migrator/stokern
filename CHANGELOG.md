@@ -7,9 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## Unreleased
 
+<<<<<<< HEAD
+## v9,9,89-hf
+
+- change nokogiri to >= 1.13.9 but Synk doesn't seem to pick up this as a change. Will ignore for 90 days and go round the look again.
+=======
 ## v9.9.89-hf
 
 - change nokogiri to >= 1.13.9 but Synk doesn't seem to pick up this as a change. Will ignore for 90 days and go round the loop again.
+>>>>>>> hotfix/SNYK-RUBY-NOKOGIRI-3052880
 
 ## v0.0.89 2022-10-15
 
