@@ -45,7 +45,7 @@ group :development do
   gem 'rb-inotify', require: false
   gem 'rubocop', '>= 1.25.1', require: false
   gem 'rubocop-performance', '>= 1.10.1'
-  gem 'rubocop-rails', '>= 2.16.1'
+  gem 'rubocop-rails', '>= 2.17.0'
   gem 'rubocop-rspec'
   gem 'spring'
   gem 'spring-commands-rspec'
@@ -59,7 +59,7 @@ group :development, :test do
   gem 'factory_bot_rails', '>= 6.2.0'
   gem 'faker'
   gem 'rb-readline'
-  gem 'rspec-rails', '>= 6.0.0'
+  gem 'rspec-rails', '>= 6.0.1'
 end
 
 group :test do
